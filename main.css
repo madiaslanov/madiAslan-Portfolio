@@ -461,4 +461,14 @@ font-weight: 900;
   }
   }
 
+  .port-card{
+    margin-top: 50px;
+  }
 
+  .text-link{
+    color: #fff;
+    border: 1px solid #000000;
+    background-color: #722c2c;
+    border-radius: 5px;
+    font-size: 15px;
+  }
